@@ -83,7 +83,7 @@ The dataset consists of four related tables:
 ---
 
 ## 📸 Output Verification
-Refer to the file [queryoutputs_screenshots.pdf](task4_screenshot_outputs.docx) for screenshots of query outputs.
+Refer to the file [queryoutputs_screenshots.pdf](task4_screenshot_outputs.pdf) for screenshots of query outputs.
 
 ---
 
